@@ -1,2 +1,2 @@
-   'My first commit'
-   'My first repo'
+ 'My first commit'
+ 'My first repo'
