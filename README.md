@@ -1,2 +1,1 @@
- 'My first commit'
- 'My first repo'
+Project 0x01 - Learning Emacs
