@@ -1,2 +1,1 @@
-"using git command lines to learn and manuver git"
-UPDATE
+up_to_date
